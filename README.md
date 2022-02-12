@@ -1,10 +1,10 @@
 ## Olá, tudo bem?
 
 <i>Meu nome é Anderson, sou Desenvolvedor Mobile apaixonado por Tecnologia! 📱❤️</i>
-- Estudando tecnologia Flutter 🐦
-- Desenvolvedor Back-End (Python + MySql)💻
+- Desenvolvedor Flutter 🐦
+- Programador de Sistemas Back-End (Python + MySql)💻
 
-![giphy (1)](https://user-images.githubusercontent.com/99498850/153713531-8f26940c-6c48-4213-bde0-664218f80b6d.gif)
+<br>![giphy (1)](https://user-images.githubusercontent.com/99498850/153713531-8f26940c-6c48-4213-bde0-664218f80b6d.gif)</br>
 
 ## Tecnologias que uso no meu dia 👨‍💻
 
