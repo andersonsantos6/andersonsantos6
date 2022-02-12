@@ -2,10 +2,11 @@
 
 - Meu nome é Anderson, e sou Desenvolvedor Mobile 📱
 - Estudando tecnologia Flutter 🐦
+- Desenvolvedor Back-End (Python + MySql) 💻
 
 ![giphy (1)](https://user-images.githubusercontent.com/99498850/153713531-8f26940c-6c48-4213-bde0-664218f80b6d.gif)
 
-Tecnologias que uso no meu dia 💻
+## Tecnologias que uso no meu dia 👨‍💻
 <div syle="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
@@ -15,13 +16,7 @@ Tecnologias que uso no meu dia 💻
 
 <br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonsantos6)](https://github.com/andersonsantos6/github-readme-stats)</br>
 
-<br><div syle="display: inline_block">
-  <img align="center" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width =25px/>
-  <img align="center" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width =25px/>
-  <img align="center" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width =25px/>
-  <img align="center" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width =25px/>
-  <img align="center" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width =25px/>
-</div></br>
+## Contato
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-santos-364785231/) [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/andersonsantos6)
 
