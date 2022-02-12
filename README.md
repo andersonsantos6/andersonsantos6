@@ -1,6 +1,6 @@
 ## Olá, tudo bem? 🥰
 
-- Meu nome é Anderson, e sou Desenvolvedor Mobile 📱
+- Meu nome é Anderson, sou Desenvolvedor Mobile apaixonado por Tecnologia! 📱❤️
 - Estudando tecnologia Flutter 🐦
 - Desenvolvedor Back-End (Python + MySql) 💻
 
