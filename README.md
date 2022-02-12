@@ -1,7 +1,7 @@
 ## Olá, eu sou Anderson Santos
 - 📱 Desenvolvedor Flutter
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/99498850/153687795-08170da3-aeef-4cfc-9137-a29fdf426f36.gif)
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/99498850/153688714-211ccbce-23c9-427d-bea3-df18ab2fa57f.gif)
 
 ##
 - 🤔 I’m looking for help with ...
