@@ -2,7 +2,7 @@
 
 Desenvolvedor Mobile 📱
 
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/99498850/153688714-211ccbce-23c9-427d-bea3-df18ab2fa57f.gif)
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/99498850/153691882-b67d4147-09cc-45e5-890b-11f419b5ddca.gif)
 
 ## Tecnologias que uso no meu dia
 <div syle="display: inline_block"><br/>
