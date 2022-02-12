@@ -4,7 +4,7 @@
 - 📱 Desenvolvedor Flutter
 ## Tecnologias que estudo:
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.youtube.com/watch?v=cRoBt6AZgjc&ab_channel=Sujeitoprogramador)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-santos-364785231/)
 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
