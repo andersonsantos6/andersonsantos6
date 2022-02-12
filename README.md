@@ -1,6 +1,6 @@
 ## Olá, tdudo bem?
 
-Meu nome é Anderson, e sou Desenvolvedor Mobile
+- Meu nome é Anderson, e sou Desenvolvedor Mobile 📱
 
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/99498850/153691882-b67d4147-09cc-45e5-890b-11f419b5ddca.gif)
 
