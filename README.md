@@ -1,8 +1,8 @@
-## Olá, tdudo bem? 🥰
+## Olá, tudo bem? 🥰
 
 - Meu nome é Anderson, e sou Desenvolvedor Mobile 📱
 
-![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/99498850/153691882-b67d4147-09cc-45e5-890b-11f419b5ddca.gif)
+![giphy (1)](https://user-images.githubusercontent.com/99498850/153713531-8f26940c-6c48-4213-bde0-664218f80b6d.gif)
 
 Tecnologias que uso no meu dia 💻
 <div syle="display: inline_block">
