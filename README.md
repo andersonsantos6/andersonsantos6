@@ -1,4 +1,4 @@
-## Olá, tudo bem? 🥰
+## Olá, tudo bem?
 
 - <i>Meu nome é Anderson, sou Desenvolvedor Mobile apaixonado por Tecnologia! 📱❤️
 - Estudando tecnologia Flutter 🐦
