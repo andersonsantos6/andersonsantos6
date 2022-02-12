@@ -1,9 +1,8 @@
 ## Olá, eu sou Anderson Santos
-- 📱 Desenvolvedor Flutter
-
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/99498850/153688714-211ccbce-23c9-427d-bea3-df18ab2fa57f.gif)
 
-##
+- 📱 Desenvolvedor Flutter
+## Tecnologias que estudo:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
