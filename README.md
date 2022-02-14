@@ -1,6 +1,6 @@
-## Olá, tudo bem?
+## Olá, tudo bem? Meu nome é Anderson Santos
 
-<i>Meu nome é Anderson, sou Desenvolvedor Mobile e apaixonado por Tecnologia! 📱❤️</i>
+<i>Sou Desenvolvedor Mobile e apaixonado por Tecnologia! 📱❤️</i>
 - Desenvolvedor Flutter 🐦
 - Programador de Sistemas Back-End (Python + MySql)💻
 
