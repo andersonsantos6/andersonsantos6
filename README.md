@@ -1,4 +1,4 @@
-## Olá, tudo bem? Meu nome é Anderson Santos
+## Olá! Meu nome é Anderson Santos
 
 <b><i>Sou Desenvolvedor de Software apaixonado por Tecnologia! 💻❤️</i></b>
 - 🐦 Desenvolvedor Flutter
