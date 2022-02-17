@@ -2,7 +2,7 @@
 
 <b><i>Sou Desenvolvedor de Software apaixonado por Tecnologia! 💻❤️</i></b>
 - 🐦 Desenvolvedor Flutter
-- 🐍 Programador de Sistemas Back-End (Python + MySql
+- 🐍 Programador de Sistemas Back-End (Python + MySql)
 
 <br>![giphy (1)](https://user-images.githubusercontent.com/99498850/153713531-8f26940c-6c48-4213-bde0-664218f80b6d.gif)</br>
 
