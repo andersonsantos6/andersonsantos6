@@ -1,6 +1,6 @@
 <h1> Olá <img src='https://user-images.githubusercontent.com/99498850/154541314-0f974b20-6cb0-4b98-b7b7-16fa427da983.gif'height =50px>, Eu sou Anderson Santos</h1>
 
-- 🐦 Flutter Developer
+- 💙 Flutter Developer
 - 💻 Programador de Sistemas Back-End
 
 ## 🛠️ Tech Stack
