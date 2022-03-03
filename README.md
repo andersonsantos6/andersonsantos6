@@ -1,8 +1,11 @@
 <h1> Olá <img src='https://user-images.githubusercontent.com/99498850/154541314-0f974b20-6cb0-4b98-b7b7-16fa427da983.gif'height =50px>, Eu sou Anderson Santos</h1>
 
-- 💙 Flutter Developer
-- 💻 Programador de Sistemas Back-End
+## 👨‍💻 About me
+<p>Olá, sou Desenvolvedor de software apaixonado por programação e tecnologia. Tenho contato com desenvolvimento desde 2018  no porte de custom roms e kernels para dispositivos Android. 
 
+Possuo foco em desenvolvimento com Flutter, Firebase, MySql dentre outras tecnologias acerca de Desenvolvimendo Mobile.
+
+Me considero ágil e consistente em aprender uma nova linguagem ou tecnologia, e pronto para superar qualquer desafio!</p>
 ## 🛠️ Tech Stack
 ![flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
