@@ -1,7 +1,7 @@
 <h1> Olá <img src='https://user-images.githubusercontent.com/99498850/154541314-0f974b20-6cb0-4b98-b7b7-16fa427da983.gif'height =50px>, Eu sou Anderson Santos</h1>
 
 ## 👨‍💻 About me
-<p>Olá, sou Desenvolvedor de software apaixonado por programação e tecnologia. Tenho contato com desenvolvimento desde 2018  no porte de custom roms e kernels para dispositivos Android. 
+<p>Desenvolvedor de software apaixonado por programação e tecnologia. Tenho contato com desenvolvimento desde 2018  no porte de custom roms e kernels para dispositivos Android. 
 
 Possuo foco em desenvolvimento com Flutter, Firebase, MySql dentre outras tecnologias acerca de Desenvolvimendo Mobile.
 
