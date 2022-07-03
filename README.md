@@ -3,7 +3,7 @@
 ## 👨‍💻 About me
 <p>Desenvolvedor de software apaixonado por programação e tecnologia. Tenho contato com desenvolvimento desde 2018  no porte de custom roms e kernels para dispositivos Android. 
 
-Possuo foco em desenvolvimento com Flutter, Firebase, MySql dentre outras tecnologias acerca de Desenvolvimendo Mobile.
+Possuo foco em desenvolvimento com Flutter, Firebase, MySql, Python dentre outras tecnologias.
 
 Me considero ágil e consistente em aprender uma nova linguagem ou tecnologia, e pronto para superar qualquer desafio!</p>
 ## 🛠️ Tech Stack
