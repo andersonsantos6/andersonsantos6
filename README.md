@@ -1,7 +1,7 @@
 <h1>Hi <img src='https://user-images.githubusercontent.com/99498850/154541314-0f974b20-6cb0-4b98-b7b7-16fa427da983.gif'height =50px>, I am Anderson</h1>
 
 ## 👨‍💻 About me
-<p>I'm {backend and mobile} developer, student of programming and accounting science.</p>
+<p>I'm {mobile and backend} developer, student of programming and accounting science.</p>
 
 ## 🛠️ Tech Stack
 
